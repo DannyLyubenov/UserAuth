@@ -22,16 +22,17 @@ password Admin123</pre>
 
 ![picture](img/mainAdmin.PNG)
 ![picture](img/main2Admin.PNG)
-before fully using the program, please change your credentials so you can secure the app
+<pre>before fully using the program, 
+please change your credentials so you can secure the app</pre>
 
 
 ![picture](img/users.PNG)
-the admin can view all existing users
+<pre>the admin can view all existing users</pre>
 
 
 ![picture](img/reset.PNG)
-any user can reset their password by entering their username and secret answer
+<pre>any user can reset their password by entering their username and secret answer</pre>
 
 
 ![picture](img/register.PNG)
-the admin can register new users to the system
+<pre>the admin can register new users to the system</pre>
