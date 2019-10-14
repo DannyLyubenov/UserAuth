@@ -15,9 +15,9 @@ This is an authentication program which stores users
 
 
 ![picture](img/login.PNG)
-the initial login is universal
+<pre>the initial login is universal
 username - admin
-password Admin123
+password Admin123</pre>
 
 
 ![picture](img/mainAdmin.PNG)
